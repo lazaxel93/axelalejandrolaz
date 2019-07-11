@@ -6,9 +6,10 @@ var edad;
 edad = document.getElementById("edad").value;
 
 if (edad >= 18)
-{alert("usted es mayor")};
+{alert("usted es mayor");}
 
- if(edad < 18)
-{alert("usted es menor")};
+else{
+     
+alert("usted es menor");}
 
-}//FIN DE LA FUNCIÓN
+   }//FIN DE LA FUNCIÓN 
